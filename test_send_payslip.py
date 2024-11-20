@@ -2,7 +2,7 @@
 # encoding: utf-8
 
 """
-test_send_payroll.py
+test_send_paystub.py
 
 Created by 4aiur on 2012-02-20.
 Copyright (c) 2012 4aiur. All rights reserved.
@@ -16,7 +16,7 @@ from pprint import pprint
 cwd = os.getcwd()
 app_path = os.path.abspath(os.path.join(cwd, "../"))
 sys.path.append(app_path)
-import send_payroll
+import send_paystub
 
 
 class TestExcel(unittest.TestCase):
