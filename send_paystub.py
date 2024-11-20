@@ -2,7 +2,7 @@
 # encoding: utf-8
 
 """
-send_payroll.py
+send_paystub.py
 
 Created by 4aiur on 2012-02-19.
 Copyright (c) 2012 4aiur. All rights reserved.
